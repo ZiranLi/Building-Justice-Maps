@@ -1,7 +1,7 @@
 # Building-Justice-Maps
 ## CS506 project
 
-* The [classification](/classification) folder contains the code to do train and classfy the data.
+* The [Classification](/Classification) folder contains the code to do train and classfy the data.
 
 * The [DataAnalysis](/DataAnalysis) folder contains the code to clear the data and to have a better understanding of the data
 
