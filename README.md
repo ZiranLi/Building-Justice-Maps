@@ -7,6 +7,8 @@
 
 * The [DataObtain](/DataObtain) folder contains some code to script the coode from websites provided.
 
+* The [FinalData](/FinalData) folder contains the final dataset we collect from website and API.
+
 Our team members:
   
    **Yize Liu** lyz95222@bu.edu   :point_right:[@github/lyatxyd1995](https://github.com/lyztxyd1995)
